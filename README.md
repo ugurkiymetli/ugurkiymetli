@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Javascript-ReactJS.
+- 👯 I’m looking to collaborate on projects that will improve my skills.
+- 🤔 I’m looking for help with improving skills with Javascript and ReactJS.
+- 💬 Ask me about anything. 
+- 📫 How to reach me: [twitter](https://twitter.com/ugurkiymetli), [linkedin](https://www.linkedin.com/in/ugurkiymetli/).
 <!--
 **ugurkiymetli/ugurkiymetli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

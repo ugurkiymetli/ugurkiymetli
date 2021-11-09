@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur Kıymetli</h1>
 <h3 align="center">A passionate jr. frontend developer from Istanbul, Turkey.</h3>
 
-- 🔭 I’m currently learning [Javascript - React](https://github.com/users/ugurkiymetli/projects/2)
+- 🔭 I’m currently learning Javascript - React (following Patika.dev Front End Developer)
 
 - 🌱 I’m currently learning **Javascript - React - .Net Core**
 

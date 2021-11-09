@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **learning React**
 
-- 👨‍💻 All of my projects are available at [ugurkiymetli.com](ugurkiymetli.com)
+- 👨‍💻 All of my projects are available at [my web site](www.ugurkiymetli.com).
 
 - 💬 Ask me about **React, JS and pretty much anything you want to ask.**
 

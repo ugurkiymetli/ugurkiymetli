@@ -1,41 +1,5 @@
-<!--
-# Hello I'm Uğur.
-### Hi there fellow coder. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-- 🌱 I’m currently learning Javascript-ReactJS.
-- 👯 I’m looking to collaborate on projects that will improve my skills.
-- 🤔 I’m looking for help with improving skills with Javascript and ReactJS.
-- 💬 Ask me about anything. 
-- 📫 How to reach me: <a href="https://twitter.com/ugurkiymetli">
-  <img alt="Uğur Kıymetli | Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> <a href="https://www.linkedin.com/in/ugurkiymetli/">
-  <img alt="Uğur Kıymetli's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-- [twitter](https://twitter.com/ugurkiymetli), [linkedin](https://www.linkedin.com/in/ugurkiymetli/).
-<a href="https://twitter.com/ugurkiymetli">
-  <img align="left" alt="Uğur Kıymetli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ugurkiymetli/">
-  <img align="left" alt="Uğur Kıymetli's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-**ugurkiymetli/ugurkiymetli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-for ideas - https://github.com/abhisheknaiidu/abhisheknaiidu/edit/master/README.md
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Uğur Kıymetli</h1>
 <h3 align="center">A passionate jr. frontend developer from Istanbul, Turkey.</h3>
-
 
 - 🔭 I’m currently learning [Javascript - React](https://github.com/users/ugurkiymetli/projects/2)
 
@@ -49,13 +13,23 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, JS and pretty much anything you want to ask.**
 
-- 📫 How to reach me **LinkedIn**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="left">
-<a href="https://twitter.com/ugurkiymetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkiymetli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ugurkiymetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugurkiymetli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ugurkiymetli97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugurkiymetli97" height="30" width="40" /></a>
+  <a href="https://twitter.com/ugurkiymetli" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkiymetli" height="30" width="40" />
+  </a>
+<a href="https://linkedin.com/in/ugurkiymetli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugurkiymetli" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/ugurkiymetli97" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugurkiymetli97" height="30" width="40" />
+  </a>
+  <a href="https://app.patika.dev/ugurkiymetli" target="blank">
+    <img align="center" src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" alt="ugurkiymetli" height="40" width="40"/>
+  </a>
+  
 </p>
 
 <h3 align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uğur Kıymetli</h1>
-<h3 align="center">A passionate jr. frontend developer from Istanbul, Turkey.</h3>
+<h3 align="center">A passionate software developer from Istanbul, Turkey.</h3>
 
 - 🔭 I’m currently learning .Net Core - React (Student @GelecekVarlık Fullstack Bootcamp)
 

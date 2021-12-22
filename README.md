@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript - React - .Net Core**
 
-- 👯 I’m looking to collaborate on [React projects.](https://github.com/users/ugurkiymetli/projects/1)
+<!-- - 👯 I’m looking to collaborate on [React projects.](https://github.com/users/ugurkiymetli/projects/1)  -->
 
-- 🤝 I’m looking for help with **learning React**
+- 🤝 I’m looking for help with **learning .Net + React**
 
 - 👨‍💻 All of my projects are available at [my web site](www.ugurkiymetli.com).
 

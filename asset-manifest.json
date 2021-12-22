@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ugurkiymetli.com/static/css/main.e16ceaa0.css",
+    "main.css": "/ugurkiymetli.com/static/css/main.00aa033b.css",
     "main.js": "/ugurkiymetli.com/static/js/main.d4040c0c.js",
     "index.html": "/ugurkiymetli.com/index.html",
-    "main.e16ceaa0.css.map": "/ugurkiymetli.com/static/css/main.e16ceaa0.css.map",
+    "main.00aa033b.css.map": "/ugurkiymetli.com/static/css/main.00aa033b.css.map",
     "main.d4040c0c.js.map": "/ugurkiymetli.com/static/js/main.d4040c0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e16ceaa0.css",
+    "static/css/main.00aa033b.css",
     "static/js/main.d4040c0c.js"
   ]
 }

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uğur Kıymetli</h1>
 <h3 align="center">A passionate software developer from Istanbul, Turkey.</h3>
 
-- 🔭 I’m currently learning .Net Core - React (Student @GelecekVarlık Fullstack Bootcamp)
+- 🔭 I’m currently learning .Net Core - React (Participant @GelecekVarlık Fullstack Bootcamp - [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp))
 
 - 🌱 I’m currently learning **Javascript - React - .Net Core**
 
@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [my web site](www.ugurkiymetli.com).
 
 - 💬 Ask me about **React, JS and pretty much anything you want to ask.**
-
+- ☑️ My Repos -> [Dotnet](https://github.com/stars/ugurkiymetli/lists/dotnet) - [Javascript](https://github.com/stars/ugurkiymetli/lists/javascript) - [React](https://github.com/stars/ugurkiymetli/lists/react)
 <h3 align="left">
   Connect with me:
 </h3>

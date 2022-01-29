@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **learning .Net + React**
 
-- 👨‍💻 All of my projects are available at [my web site](www.ugurkiymetli.com).
+- 👨‍💻 All of my projects are available at  <a href="https://ugurkiymetli.com/" target="blank"> my web site </a>.
 
 - 💬 Ask me about **React, JS and pretty much anything you want to ask.**
 - ☑️ My Repos -> [Dotnet](https://github.com/stars/ugurkiymetli/lists/dotnet) - [Javascript](https://github.com/stars/ugurkiymetli/lists/javascript) - [React](https://github.com/stars/ugurkiymetli/lists/react)

@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Uğur Kıymetli</h1>
-<h3 align="center">A passionate software developer from Istanbul, Turkey.</h3>
+<h3 align="center">A passionate fullstack software developer from Istanbul, Turkey.</h3>
 
-- 🔭 I’m currently learning .Net Core - React (Participant @GelecekVarlık Fullstack Bootcamp - [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp))
+- I’m currently working at [Gelecek Varlık](https://www.linkedin.com/company/g%C3%BCven-varlik-y%C3%B6netim-a.%C5%9F/about/) as fullstack (.Net + ReactJS) developer.
 
-- 🌱 I’m currently learning **Javascript - React - .Net Core**
+- 🔭 I graduated from .Net & React Fullstack Bootcamp - [Bootcamp](https://www.patika.dev/bootcamp/gelecek-varlik-fullstack-bootcamp) / [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp)
+
+<!-- - 🌱 I’m currently learning **Javascript - React - .Net Core** -->
 
 <!-- - 👯 I’m looking to collaborate on [React projects.](https://github.com/users/ugurkiymetli/projects/1)  -->
 
-- 🤝 I’m looking for help with **learning .Net + React**
+<!-- - 🤝 I’m looking for help with **learning .Net + React** -->
 
-- 👨‍💻 All of my projects are available at  <a href="https://ugurkiymetli.com/" target="blank"> my web site </a>.
+- 👨‍💻 All of my projects are available at <a href="https://ugurkiymetli.com/" target="blank"> my web site </a>.
 
-- 💬 Ask me about **React, JS and pretty much anything you want to ask.**
+- 💬 Ask me about **.Net, SQL, React, JS and pretty much anything you want to ask.**
 - ☑️ My Repos -> [Dotnet](https://github.com/stars/ugurkiymetli/lists/dotnet) - [Javascript](https://github.com/stars/ugurkiymetli/lists/javascript) - [React](https://github.com/stars/ugurkiymetli/lists/react)
 <h3 align="left">
   Connect with me:
 </h3>
-<p align="left">
   <a href="https://twitter.com/ugurkiymetli" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkiymetli" height="30" width="40" />
   </a>
@@ -29,8 +30,6 @@
   <a href="https://app.patika.dev/ugurkiymetli" target="blank">
     <img align="center" src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" alt="ugurkiymetli" height="40" width="40"/>
   </a>
-  
-</p>
 
 <h3 align="left">
   Languages, Frameworks and Tools:
@@ -70,11 +69,10 @@
   <a href="https://dotnet.microsoft.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>  
   </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 

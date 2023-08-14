@@ -13,8 +13,8 @@
 
 - 👨‍💻 All of my projects **will be** available at <a href="https://ugurkiymetli.com/" target="blank"> my web site </a>.
 
-- 💬 Ask me about **.Net, SQL, React, JS and pretty much anything you want to ask.**
-- ☑️ My Repos -> [Dotnet](https://github.com/stars/ugurkiymetli/lists/dotnet) - [Javascript](https://github.com/stars/ugurkiymetli/lists/javascript) - [React](https://github.com/stars/ugurkiymetli/lists/react)
+- 💬 Ask me about **ReactJs, JavaScript, TypeScript, .Net, C#, SQL and pretty much anything you want to ask.**
+- ☑️ My Repos -> [ReactJs](https://github.com/stars/ugurkiymetli/lists/react) - [TypeScript](https://github.com/stars/ugurkiymetli/lists/typescript) - [.Net](https://github.com/stars/ugurkiymetli/lists/dotnet) - [JavaScript](https://github.com/stars/ugurkiymetli/lists/javascript)
 <h3 align="left">
   Connect with me:
 </h3>
@@ -27,14 +27,29 @@
   <a href="https://www.hackerrank.com/ugurkiymetli97" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugurkiymetli97" height="30" width="40" />
   </a>
-  <a href="https://app.patika.dev/ugurkiymetli" target="blank">
+  
+  <!---<a href="https://app.patika.dev/ugurkiymetli" target="blank">
     <img align="center" src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" alt="ugurkiymetli" height="40" width="40"/>
-  </a>
+  </a>--->
 
 <h3 align="left">
   Languages, Frameworks and Tools:
 </h3>
 <p align="left"> 
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+
+  <!-- Typescript -->
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   
+  </a>
+
+  <!-- Javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
+  </a>
   
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -45,46 +60,38 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <!-- Javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
-  </a>
+  
   
   <!--C#-->
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>  
   
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  
   <!-- .Net Core-->
   <a href="https://dotnet.microsoft.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>  
   </a>
+
   <!-- MS SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
+
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-  <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+
+  <!-- ChatGPT -->
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png?20230318122128" alt="postman" width="40" height="40"/> 
   </a>
+
 </p>
 
 <!-- Most Used Languages -->

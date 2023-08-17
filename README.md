@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects **will be** available at <a href="https://ugurkiymetli.com/" target="blank"> my web site </a>.
 
 - 💬 Ask me about **ReactJs, JavaScript, TypeScript, .Net, C#, SQL and pretty much anything you want to ask.**
-- ☑️ My Repos -> [ReactJs](https://github.com/stars/ugurkiymetli/lists/react) - [TypeScript](https://github.com/stars/ugurkiymetli/lists/typescript) - [.Net](https://github.com/stars/ugurkiymetli/lists/dotnet) - [JavaScript](https://github.com/stars/ugurkiymetli/lists/javascript)
+- ☑️ My Repos -> [ReactJs](https://github.com/stars/ugurkiymetli/lists/reactjs) - [TypeScript](https://github.com/stars/ugurkiymetli/lists/typescript) - [.Net](https://github.com/stars/ugurkiymetli/lists/c-net) - [JavaScript](https://github.com/stars/ugurkiymetli/lists/javascript) - [Misc](https://github.com/stars/ugurkiymetli/lists/misc)
 <h3 align="left">
   Connect with me:
 </h3>

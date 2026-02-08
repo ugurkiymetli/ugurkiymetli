@@ -3,7 +3,7 @@
 
 - I’m currently working at [Gelecek Varlık](https://www.linkedin.com/company/g%C3%BCven-varlik-y%C3%B6netim-a.%C5%9F/about/) as fullstack (.Net + ReactJS) developer.
 
-- 🔭 I graduated from .Net & React Fullstack Bootcamp - [Bootcamp Info](https://www.patika.dev/bootcamp/gelecek-varlik-fullstack-bootcamp) / [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp)
+- 🔭 I participated in .Net & React Fullstack Bootcamp - [Bootcamp Info](https://www.patika.dev/bootcamp/gelecek-varlik-fullstack-bootcamp) / [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp)
 
 <!-- - 🌱 I’m currently learning **Javascript - React - .Net Core** -->
 
